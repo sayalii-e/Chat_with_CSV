@@ -3,10 +3,9 @@
 Requirements
 
 - pip install streamlit
-- pip install langchain
+- pip install langchain_groq
 - pip install python-dotenv
 - pip install langchain_experimental
-- pip install openai
-- pip install tabulate
+- pip install groq
 
 streamlit rum main.py
